@@ -1,0 +1,120 @@
+/* .jumbotron{
+  background: url("./imges/2128988264\ copy.jpg") no-repeat center center; 
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+} */
+/* *{
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto" ;
+  font-weight: 300 ;
+  font-size: 48px;
+  letter-spacing: -2px ;
+  -webkit-font-smoothing: antialiased;
+} */
+
+body {
+  width: 100%;
+  height: 100%;
+  background: ;
+  color: #444444;
+  letter-spacing: 0.03em;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.logo{
+  width: 100px;
+}
+
+.jumbotron {
+  background-image: url(./imges/2128988264\ copy.jpg);
+  background-size: cover;
+  min-height: 600px;
+}
+
+
+.wsite-headline{
+
+  color: white;
+  font-family: "Roboto" !important;
+  font-weight: 300 !important;
+   font-size: 48px;
+   letter-spacing: -2px !important;
+  text-transform: uppercase;
+ 
+  text-align: left;
+  line-height: 40px;
+  word-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+  padding-bottom: 10px;
+  margin: 100px 0 0 0px;
+
+}
+
+/* .push-spaces
+{
+    height: 600px;
+} */
+.section {
+  color: #444444;
+  letter-spacing: 0.03em;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.content-title{
+
+ font-family: "Oxygen" !important;
+  font-weight: 300 !important;
+  text-transform: uppercase !important;
+  color: rgb(28, 7, 149);
+  /* -webkit-font-smoothing: antialiased; */
+}
+
+.top-one {
+  /* background-color: rgba(43, 230, 230, 0.308); */
+}
+
+.top-one h2{
+  font-family: "Oxygen" !important;
+  font-weight: 300 !important;
+  text-transform: uppercase !important;
+  color: rgb(28, 7, 149);
+  -webkit-font-smoothing: antialiased;
+}
+
+.top-one p{
+  font-family: "Oxygen" !important;
+  text-transform: uppercase !important;
+  /* color: rgb(28, 7, 149); */
+  -webkit-font-smoothing: antialiased;
+}
+
+.jumbotron{
+  margin-bottom: 0;
+}
+.navbar {
+  background-color: #FFFFFF;
+  height:40px;
+}
+/* .navbar {
+  position: relative;
+} */
+/* .brand { */
+  /* position: absolute; */
+  
+  /* left: 50%;
+  margin-left: -50px !important;  50% of your logo width */
+  /* display: block; */
+
+.gutter{
+  padding-left: 40px;
+  padding-right: 50px;
+}
