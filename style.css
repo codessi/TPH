@@ -29,6 +29,11 @@ body {
 
 .logo{
   width: 100px;
+
+  
+}
+.pre-order{
+  text-align: right;
 }
 
 .jumbotron {
@@ -139,5 +144,10 @@ body {
 }
 .navbar .nav-item {
   width: 150px;
+  padding:0 10px;
+
   background-color: white;
+}
+.navbar {
+  margin-bottom: 2px;
 }
