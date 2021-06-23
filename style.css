@@ -17,11 +17,11 @@
 body {
   width: 100%;
   height: 100%;
-  background: ;
+  /* background: ; */
   color: #444444;
   letter-spacing: 0.03em;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
   line-height: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -78,9 +78,7 @@ body {
   /* -webkit-font-smoothing: antialiased; */
 }
 
-.top-one {
-  /* background-color: rgba(43, 230, 230, 0.308); */
-}
+
 
 .top-one h2{
   font-family: "Oxygen" !important;
@@ -117,4 +115,24 @@ body {
 .gutter{
   padding-left: 40px;
   padding-right: 50px;
+}
+
+.section-content{
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-section p{
+  font-size: 20px;
+  margin:40px 0 60px 0;
+
+}
+
+.sub-section h3{
+  font-size: 50px;
+}
+.sub-section h5{
+  font-size: 35px;
 }
